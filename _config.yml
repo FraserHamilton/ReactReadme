@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/ReactReadme"
 url: "https://fraserhamilton.github.io/"
 title: React Readme # site's title
 description: "A React Focused Blog" # used by search engines
